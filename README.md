@@ -9,7 +9,7 @@ Using Tableau, data from NYC citibike was analyzed for the month of August, 2018
 - Software: Tableau Public Desktop, Jupyter Notebook, Python 3.7.9
 
 ## Overview
-To view this information in its intended format, visit:[https://public.tableau.com/profile/brian.william.forth#!/vizhome/NYCCitiBike_16169005974820/NYCCitibikeStory?publish=yes](NYC Citi Bike Tableau Story)
+To view this information in its intended format, visit:[NYC Citi Bike Tableau Story](https://public.tableau.com/profile/brian.william.forth#!/vizhome/NYCCitiBike_16169005974820/NYCCitibikeStory?publish=yes)
 
 ## Results
 Looking at the relative usage statistics of the citibike stations in NYC, a handful of stations have the clear majority of bike pickups.
