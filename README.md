@@ -48,4 +48,6 @@ Not appreciably, other than male riders ride in much larger numbers in general t
 
 It seems that short term customers use the bikes far more during the weekends, while subscribers tend to use the bikes Monday to Friday (for commuting, as we've already determined).
 
+### Summary
+
 So, we've answered some questions, but there are more still out there. What hours are the bikes used by different rider types? How long do the different rider types typically use the bikes? And, though this information is unavailable in the data source, how much revenue is brought in from each rider type? Des Moines looks like a potentially good candidate for citi bike, but if the system is reliant on short-term customers subsidizing subscribers, then it may not work.
